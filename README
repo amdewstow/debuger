@@ -1,0 +1,6 @@
+Package Name 
+AMDewstow/debugger
+
+Install via
+composer require amdewstow/debugger
+

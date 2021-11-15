@@ -1,0 +1,17 @@
+{
+    "name": "amdewstow/debugger",
+    "description": "Debuging tools",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Anthony Dewstow",
+            "email": "AMDewstow@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+    
+}
